@@ -11,7 +11,7 @@
   
 - 📫 Find me on <a target="_blank" style="color:blue;font-weight: bold;" href="https://www.linkedin.com/in/pedro-paulino-software-engineer/">LinkedIn</a>
 
-# Application and Data
+## Application and Data
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=7F52FF)
 
-# Tools
+## Tools
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite&logoColor=white)
@@ -30,12 +30,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
-# Utilities 
+## Utilities 
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-# Editors
+## Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
