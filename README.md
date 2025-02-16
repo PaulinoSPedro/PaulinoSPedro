@@ -9,7 +9,7 @@
 
 - ⚡ I’m learning more about Python and A.I.
   
-- 📫 Find me on <a target="_blank" style="color:blue;font-weight: bold;" href="(https://www.linkedin.com/in/pedro-paulino-software-engineer/)">LinkedIn</a>
+- 📫 Find me on <a target="_blank" style="color:blue;font-weight: bold;" href="https://www.linkedin.com/in/pedro-paulino-software-engineer/">LinkedIn</a>
 
 # Application and Data
 
