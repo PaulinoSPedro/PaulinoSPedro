@@ -3,7 +3,7 @@
 
 ## About
 
-- 🔭 Working as Business System Analyst I'm currently using ABAP and SQL for create reports and Python to help analyze data.
+- 🔭 Working as Software Analyst I'm currently using Python and Swift for create Test Automate and Test Pipeline Automate to maintain and validate many application in multi-platforms.
 
 - 🌱 Graduated in **Software Engineering** I'm really passionate about tech.
 
@@ -14,6 +14,7 @@
 ## Application and Data
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
+![Swift](https://img.shields.io/badge/-swift-555555?style=flat&logo=Swift&logoColor=FF8c00)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -37,6 +38,7 @@
 
 ## Editors
 
+![Xcode](https://img.shields.io/badge/-xcode-555555?style=flat&logo=xcode&logoColor=79F6FC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
