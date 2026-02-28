@@ -3,8 +3,7 @@
 
 ## About
 
-- 🔭 Working as Engineer, I use Python, Swift for create Test Automate and Test Pipeline Automate to maintain and validate many application in multi-platforms.
-    I also use Java to create back-end systems and API's. 
+- 🔭 Working as Engineer for a global technology company under a strict NDA, I use Python, Swift for create Test Automate and Test Pipeline Automate to maintain and validate many application in multi-platforms and Java to create back-end systems and API's. 
 
 - 🌱 Graduated in **Software Engineering** I'm really passionate about tech.
 
