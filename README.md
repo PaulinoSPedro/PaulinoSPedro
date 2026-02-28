@@ -3,7 +3,8 @@
 
 ## About
 
-- 🔭 Working as Software Analyst I'm currently using Python and Swift for create Test Automate and Test Pipeline Automate to maintain and validate many application in multi-platforms.
+- 🔭 Working as Engineer, I use Python, Swift for create Test Automate and Test Pipeline Automate to maintain and validate many application in multi-platforms.
+    I also use Java to create back-end systems and API's. 
 
 - 🌱 Graduated in **Software Engineering** I'm really passionate about tech.
 
@@ -15,18 +16,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 ![Swift](https://img.shields.io/badge/-swift-555555?style=flat&logo=Swift&logoColor=FF8c00)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=7F52FF)
 
 ## Tools
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
